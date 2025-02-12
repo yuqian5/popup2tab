@@ -12,6 +12,9 @@ I couldn't find a github repo for the old extension so I've created a new one.
 
 https://github.com/yuqian5/popup2tab
 
+## Contribution
+Welcome all contribution :) 
+
 # Usage
 
 The updated version is able to switch between blacklist and whitelist mode.
@@ -47,7 +50,3 @@ Page www.foo.com/popup.html opens a new window with the url www.foo.com/bar.html
 Switchting options at www.foo.com/popup.html will not result in changing the behavior of www.foo.com/bar.html
 
 You need to toggel settings at www.foo.com/bar.html to have the desired effect.
-
-
-
-# Contributions welcome
